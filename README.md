@@ -7,3 +7,7 @@ The workflow included merging datasets, extensive cleaning, and applying PCA for
 Association Rule Mining (ARM) uncovered relationships among features like age and smoker status, offering actionable insights for insurers. Visualizations, including PCA plots, confusion matrices, and network graphs, effectively communicated findings to diverse audiences.
 
 This project demonstrates the transformative role of machine learning in life-risk insurance, enabling fairer pricing, enhanced transparency, and data-driven decisions. It showcases how advanced analytics can drive equity and efficiency in the industry.
+
+Check out my portfolio at RiskWiseAnalytics (http://bit.ly/3ZP6vtC) to explore my approach to data cleaning, feature engineering, and building impactful machine learning models.
+
+I’m passionate about using data-driven solutions to optimize decision-making, foster transparency, and drive innovation. Feel free to connect, share feedback, or discuss potential opportunities to collaborate. Let’s make data work for a better future!
